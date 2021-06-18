@@ -1,0 +1,274 @@
+@media only screen and (min-width:992px) and (max-width:1199px) {
+    .header-brand .logo a {
+        font-size: 32px !important;
+    }
+
+    .navigation ul li a {
+        padding: 7px 14px !important;
+    }
+}
+
+
+
+@media only screen and (min-width:768px) and (max-width:991px) {
+    .header-brand .logo a {
+        font-size: 26px !important;
+    }
+
+    .navigation ul li a {
+        padding: 7px !important;
+        font-size: 11px !important;
+    }
+
+    .twit-feed-inner {
+        padding: 15px !important;
+    }
+
+    .advertisement {
+        width: 200px !important;
+        height: 200px !important;
+        margin: 30px 0px !important;
+    }
+
+    .advertisement button {
+        margin-top: 15px !important;
+    }
+
+    .item-head h4 a {
+        font-size: 18px !important;
+    }
+
+    .sub-post h4 a {
+        font-size: 14px !important;
+    }
+
+    .sub-post .feed-update a {
+        font-size: 9px !important;
+    }
+
+    .recent .prevArrow {
+        right: 8.6% !important;
+    }
+
+    .politics .prevArrow {
+        right: 8.6% !important;
+    }
+
+    .tab-inner {
+        padding: 15px 0px !important;
+    }
+
+    .tab-inner {
+        background: transparent !important;
+    }
+
+    .technology .prevArrow {
+        right: 8.6% !important;
+    }
+
+    .online-vote .vote-inner {
+        padding: 15px !important;
+    }
+
+    .side-social .social-pixel .social {
+        padding: 0px !important;
+    }
+
+    .side-social .social-pixel .social i {
+        font-size: 11px !important;
+    }
+
+    .side-social .social-pixel .social {
+        width: 45px !important;
+        height: 45px !important;
+    }
+
+    .side-social .social-pixel .social span {
+        font-size: 9px !important;
+    }
+
+    .side-social .social-pixel a::after {
+        transform: rotate(55deg) !important;
+        -moz-transform: rotate(55deg) !important;
+        top: 33px !important;
+        left: -6px !important;
+    }
+
+    .side-video iframe {
+        height: 320px !important;
+    }
+
+    .cat-inner {
+        padding: 15px !important;
+    }
+
+    .article .prevArrow {
+        right: 8.6% !important;
+    }
+
+    #footer .logo a {
+        font-size: 30px !important;
+    }
+}
+
+@media only screen and (min-width:570px) and (max-width:767px) {
+    #header-heading {
+        background: #000 !important;
+    }
+
+    #header-heading ul li a {
+        color: #fff !important;
+    }
+
+    .top-header-social ul li {
+        padding: 7px 0 !important;
+    }
+
+    .header-brand .logo a {
+        font-size: 26px !important;
+    }
+
+    .recent .prevArrow {
+        right: 7.6% !important;
+    }
+
+    .item-head h4 a {
+        font-size: 18px !important;
+    }
+
+    .politics .prevArrow {
+        right: 7.6% !important;
+    }
+
+    .technology .prevArrow {
+        right: 7.6% !important;
+    }
+
+    .article .prevArrow {
+        right: 7.6% !important;
+    }
+
+    .section1-sidebar .input-box {
+        margin-top: 50px !important;
+    }
+
+    .tab-inner .tab-img {
+        height: 100px !important;
+    }
+
+    .tab-inner .tab-img img {
+        height: 100px !important;
+    }
+
+    .business .tab-img {
+        height: 110px !important;
+    }
+
+    .business .tab-img img {
+        height: 110px !important;
+    }
+
+    .international {
+        margin-top: 50px !important;
+    }
+
+    .international .tab-img {
+        height: 110px !important;
+    }
+
+    .international .tab-img img {
+        height: 110px !important;
+    }
+
+    .featured .tab-img {
+        height: 110px !important;
+    }
+
+    .featured .tab-img img {
+        height: 110px !important;
+    }
+}
+
+@media only screen and (max-width:569px) {
+    #header-heading {
+        background: #000 !important;
+    }
+
+    #header-heading ul li a {
+        color: #fff !important;
+    }
+
+    .mobile-menu-icon {
+        margin-right: 5px !important;
+        height: 37px !important;
+        width: 36px !important;
+    }
+
+    .mobile-menu-icon .bar {
+        width: 26px !important;
+    }
+
+    .mobile-navigation {
+        width: 50% !important;
+        left: -65% !important;
+    }
+
+    .top-header-social ul li {
+        padding: 7px 0 !important;
+    }
+
+    .header-brand .logo a {
+        font-size: 26px !important;
+    }
+
+    .recent .prevArrow {
+        right: 11.6% !important;
+    }
+
+    .politics .prevArrow {
+        right: 11.6% !important;
+    }
+
+    .technology .prevArrow {
+        right: 11.6% !important;
+    }
+
+    .article .prevArrow {
+        right: 11.6% !important;
+    }
+
+    .item-head h4 a {
+        font-size: 18px !important;
+    }
+
+    .section1-sidebar .input-box {
+        margin-top: 50px !important;
+    }
+
+    .international {
+        margin-top: 50px !important;
+    }
+
+    #footer .logo a {
+        font-size: 32px !important;
+    }
+
+    #footer .usefull-link {
+        margin-left: 12px !important;
+    }
+    .back-to-top {
+        height: 60px !important;
+        width: 25px !important;
+    }
+    .back-to-top a p{
+        padding-top: 0 !important;
+    }
+}
+
+
+
+@media only screen and (min-width:768px) and (max-width:991px) {}
+
+@media only screen and (min-width:570px) and (max-width:767px) {}
+
+@media only screen and (max-width:569px) {}
