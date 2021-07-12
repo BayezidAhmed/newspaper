@@ -1,4 +1,12 @@
 
+ // preloader start
+ $(document).ready(function () {
+ setTimeout(function () {
+  $('.preloader').fadeToggle();
+}, 1500);
+});
+// preloader end
+
 // headline slider
 
 $(document).ready(function () {
